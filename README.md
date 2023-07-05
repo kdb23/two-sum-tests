@@ -1,3 +1,3 @@
 Practice Unit Testing
 
-- Shout out to [Grace] (https://medium.com/@grace.nieboer/a-beginners-guide-to-unit-testing-f311469cdc2d) for the tips on how to begin with Mocha and Chai.
+- Shout out to [Grace](https://medium.com/@grace.nieboer/a-beginners-guide-to-unit-testing-f311469cdc2d) for the tips on how to begin with Mocha and Chai.
